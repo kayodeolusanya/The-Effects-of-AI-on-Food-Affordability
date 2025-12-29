@@ -20,7 +20,6 @@ The full narrated story is included as a `.mov` file in this repository.
 ## 📁 Project Contents
 
 * **`Datastory_AI.ipynb`** - Full Jupyter Notebook analysis
-* **`Datastory_AI.html`** - Rendered HTML version of the analysis
 * **`datastory.mov`** - *(Download to view)* Final storytelling video presentation
 * **All visualizations**, including:
 
