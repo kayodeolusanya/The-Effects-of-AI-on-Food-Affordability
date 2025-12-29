@@ -1,6 +1,6 @@
 # The-Effects-of-AI-on-Food-Affordability
 
-# 📊 Data Story: The Effects of AI on Food Affordability
+# 📊 Data Story: The Effects of AI on Food Affordability In Canada
 
 ### Using COVID-19 as a Benchmark for Measuring AI’s Real Impact
 
